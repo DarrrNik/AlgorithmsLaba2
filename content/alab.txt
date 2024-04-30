@@ -1,0 +1,61 @@
+Mapping algorithm preparation time: 26500
+Segment tree algorithm preparation time: 12900
+Brute force algorithm time : 2480040
+Mapping algorithm time : 5711460
+Segment tree algorithm time : 5727000
+
+
+Mapping algorithm preparation time: 26300
+Segment tree algorithm preparation time: 9000
+Brute force algorithm time : 3891980
+Mapping algorithm time : 7681460
+Segment tree algorithm time : 8414480
+
+
+Mapping algorithm preparation time: 45000
+Segment tree algorithm preparation time: 24000
+Brute force algorithm time : 6289980
+Mapping algorithm time : 10061280
+Segment tree algorithm time : 10953920
+
+
+Mapping algorithm preparation time: 69600
+Segment tree algorithm preparation time: 50800
+Brute force algorithm time : 11789460
+Mapping algorithm time : 12479280
+Segment tree algorithm time : 13645480
+
+
+Mapping algorithm preparation time: 144000
+Segment tree algorithm preparation time: 87500
+Brute force algorithm time : 22034500
+Mapping algorithm time : 14750060
+Segment tree algorithm time : 16258400
+
+
+Mapping algorithm preparation time: 494000
+Segment tree algorithm preparation time: 177200
+Brute force algorithm time : 41890420
+Mapping algorithm time : 17131340
+Segment tree algorithm time : 18826660
+
+
+Mapping algorithm preparation time: 2369700
+Segment tree algorithm preparation time: 365400
+Brute force algorithm time : 80735920
+Mapping algorithm time : 18578080
+Segment tree algorithm time : 20791140
+
+
+Mapping algorithm preparation time: 16666800
+Segment tree algorithm preparation time: 804000
+Brute force algorithm time : 154739060
+Mapping algorithm time : 21659700
+Segment tree algorithm time : 23260860
+
+
+Mapping algorithm preparation time: 125087400
+Segment tree algorithm preparation time: 1914400
+Brute force algorithm time : 306301280
+Mapping algorithm time : 24249060
+Segment tree algorithm time : 27312720
